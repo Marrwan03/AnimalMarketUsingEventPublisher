@@ -35,6 +35,6 @@ there is a groupbox about Customer, For know about Customer.
 🗒️ you can save the data in db instead of data structures and improve design of screens
 
 🔍 Source Code: 
-https://github.com/Marrwan03/MyProjectsCsharp/tree/main/AnimalMarketUsingEventPublisher
+https://github.com/Marrwan03/AnimalMarketUsingEventPublisher
 
 📧 in the end if you want some details about this project ask me.
