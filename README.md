@@ -1,8 +1,8 @@
-<h1 align="center">Livestock trade</h1>
+<h1 align="center">🐐Livestock trade</h1>
 
 ###
 
-<h2 align="left">Elevator Pitch:</h2>
+<h2 align="left">👀Elevator Pitch:</h2>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<h2 align="left">The goal and the problem it solves:</h2>
+<h2 align="left">🎯The goal and the problem it solves:</h2>
 
 ###
 
@@ -18,7 +18,7 @@
 
 ###
 
-<h2 align="left">Target group:</h2>
+<h2 align="left">📢Target group:</h2>
 
 ###
 
@@ -26,25 +26,25 @@
 
 ###
 
-<h2 align="left">Features:</h2>
+<h2 align="left">🛠️Features:</h2>
 
 ###
 
-<h4 align="left">1- Form(Seller) : there is a groupbox, it has subscribe or not for Customer why add this? because if the customer buys your animal you will know and earn your money, if not you will know about the operation you must Subscribe.</h4>
+<h4 align="left">1️⃣ Form(Seller) : there is a groupbox, it has subscribe or not for Customer why add this? because if the customer buys your animal you will know and earn your money, if not you will know about the operation you must Subscribe.</h4>
 
 ###
 
-<h4 align="left">2- Form(Customer) : there are two of groupbox , they have subscribe or not for seller and butcher,<br><br>-For Seller :<br> ⭕-Subscribe: You will know about all sellers Animal. <br>❌-UnSubscribe:you will dont know about all sellers Animal.<br><br>-For Butcher : <br>⭕-Subscribe:You will know about Butchers Bill and Pay the bill.<br>❌-UnSubscribe: You will dont know about Butchers Bill.</h4>
+<h4 align="left">2️⃣ Form(Customer) : there are two of groupbox , they have subscribe or not for seller and butcher,<br><br>-For Seller :<br> ⭕-Subscribe: You will know about all sellers Animal. <br>❌-UnSubscribe:you will dont know about all sellers Animal.<br><br>-For Butcher : <br>⭕-Subscribe:You will know about Butchers Bill and Pay the bill.<br>❌-UnSubscribe: You will dont know about Butchers Bill.</h4>
 
 ###
 
-<h4 align="left">3- Form(Butcher): there is a groupbox about Customer, For know about Customer,<br><br>⭕Subscribe : You will know about Customers Animal And Earn some money for kill it. <br>❌-UnSubscribe:You will dont know about Customer`s Animal.</h4>
+<h4 align="left">3️⃣ Form(Butcher): there is a groupbox about Customer, For know about Customer,<br><br>⭕Subscribe : You will know about Customers Animal And Earn some money for kill it. <br>❌-UnSubscribe:You will dont know about Customer`s Animal.</h4>
 
 ###
 
 <br clear="both">
 
-<h2 align="left">Techniques and tools used:</h2>
+<h2 align="left">🧰Techniques and tools used:</h2>
 
 ###
 
@@ -54,7 +54,7 @@
 
 <br clear="both">
 
-<h2 align="left">Challenges and how to overcome them:</h2>
+<h2 align="left">🧱Challenges and how to overcome them:</h2>
 
 ###
 
@@ -62,7 +62,7 @@
 
 ###
 
-<h2 align="left">Future plans:</h2>
+<h2 align="left">🪄Future plans:</h2>
 
 ###
 
@@ -70,7 +70,7 @@
 
 ###
 
-<h2 align="left">Video About Project:</h2>
+<h2 align="left">🎥Video About Project:</h2>
 
 ###
 
@@ -84,7 +84,7 @@
 
 <br clear="both">
 
-<h2 align="left">End message:</h2>
+<h2 align="left">✉️End message:</h2>
 
 ###
 
